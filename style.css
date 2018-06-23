@@ -1,0 +1,72 @@
+style.css
+	
+	body	{	width: 850px;
+				font: 12pt/Times New Roman;
+			background-color:#40e0d0;}
+	
+	h1		{	font-size: 50px;
+				font-family: Calibri;
+				text-align: center;
+				text-transform: uppercase;
+				color: #000000;}
+	
+	h2		{	font-size: 40px;
+				font-family: Calibri;
+				text-align: center;
+				color: #000000;}
+	
+	h3		{	font-size: 30px;
+				font-family: Calibri;
+				text-align: center;
+				color: #000000;}	
+	
+	nav		{	display: block;}
+	
+	ul		{	list-style-type: none;
+				margin: 0;
+				padding: 0;
+				overflow: scroll;
+					background-color:#7fff00;
+				border-radius: 25px;}
+	
+	li		{	float: left;}
+	
+	li a 	{	display: block;
+				text-align: center;
+				color: #f8f8ff;
+				padding: 12px 18px;
+				text-decoration: none;}
+	
+	li a: hover:not(.active) {
+				background-color:#D3D3D3;}
+	
+	aside	{	float: right;
+					width: 400px;
+					min-height: 475px;
+				padding-right: 25px;
+				padding-top: 25px;
+				text-align: justify;}
+	
+	section	{	float: left;
+					width: 400px;
+			min-height: 475px;
+				padding-right: 25px;
+				border-right: 10px dotted #cd853f;
+				text-align: justify;}
+	
+	#first-image	{
+				float: right;
+				margin: 15px;}
+	
+	
+	
+	footer	{	clear: both;
+				width: 850px;
+				height: 100px;
+				text-align: center;}
+	
+	#footer-image	{
+				height: 100px;
+				width: 100px;} 
+	
+	
